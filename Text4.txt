@@ -1,0 +1,4 @@
+Your Words Per Minute is calculated by subtracting the number of errors you make from your raw score at the end 
+of the test. Accuracy is more important than sheer speed! Too many errors will really bring your WPM down. While 
+word processors and spell checkers make it easier to correct mistakes today, accuracy is still your chief concern. 
+Don't go so fast that you get sloppy! Your speed will naturally increase with practice as you go.
